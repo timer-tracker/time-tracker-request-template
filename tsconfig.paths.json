@@ -5,7 +5,7 @@
       "@src/*": ["src/*"],
       "@apis/*": ["src/apis/*"],
       "@components/*": ["src/components/*"],
-      "@common/*": ["src/controller/*"],
+      "@controllers/*": ["src/controllers/*"],
       "@hooks/*": ["src/hooks/*"],
       "@layouts/*": ["src/layouts/*"],
       "@pages/*": ["src/pages/*"],
