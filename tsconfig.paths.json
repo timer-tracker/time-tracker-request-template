@@ -6,10 +6,11 @@
       "@apis/*": ["src/apis/*"],
       "@components/*": ["src/components/*"],
       "@controllers/*": ["src/controllers/*"],
+      "@elements/*": ["src/elements/*"],
       "@hooks/*": ["src/hooks/*"],
       "@layouts/*": ["src/layouts/*"],
       "@pages/*": ["src/pages/*"],
-      "@store/*": ["src/store/*"]
+      "@store/*": ["src/stores/*"]
     }
   }
 }
